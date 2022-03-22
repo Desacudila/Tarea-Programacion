@@ -8,3 +8,7 @@ C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercic
 C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
 C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
 C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.manifest
+C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.application
+C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe.manifest
+C:\Users\Desa\Desktop\Tarea programacion\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.application
