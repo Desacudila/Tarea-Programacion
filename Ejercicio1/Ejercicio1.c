@@ -19,7 +19,7 @@ int main () {
             printf("Entrada Invalida\n");
             }
 
-        } while (error != 1);
+        } while (error != 1 || numero < 0);
 
         suma = suma + numero;
     }
