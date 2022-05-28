@@ -56,6 +56,7 @@ do {
     } while (error != 1 || error2 != 1);
 
         for(int i = cantidad; i<=cantidad2; i++){
+            
 
         if(i%3 == 0){
 
