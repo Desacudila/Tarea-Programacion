@@ -7,14 +7,14 @@ int main () {
 
     printf("-> Introducir solo numeros\n\n");
 
-    float array[4];
+    float cadenaay[4];
     float num = 0;
     float nMul = 0;
 
     int error = 0;
     char buf[10];
 
-    size_t n = sizeof(array)/sizeof(array[0]);
+    size_t n = sizeof(cadenaay)/sizeof(cadenaay[0]);
 
     for(int i = 1; i<=5; i++){
 
@@ -29,13 +29,13 @@ int main () {
 
         } while (error != 1);
 
-        array[i-1] = num;
+        cadenaay[i-1] = num;
 
     }
 
     for(int i = 0; i<=4; i++){
 
-        printf("%0.2f " , array[i]);
+        printf("%0.2f " , cadenaay[i]);
 
     }
 
@@ -43,7 +43,7 @@ int main () {
 
     for(int i = 0; i<=4; i++){
 
-        nMul = array[i] * 1.65;
+        nMul = cadenaay[i] * 1.65;
 
         printf("%0.2f " , nMul);
 

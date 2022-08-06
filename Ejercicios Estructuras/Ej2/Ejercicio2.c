@@ -36,16 +36,16 @@ int main () {
     printf("Ingrese la ciudad de la cual solicita informacion: ");  //Se solicita la ciudad a buscar
     scanf("%s", soli);  //Se guarda la ciudad
 
-    for(int i=0; i<4; i++){  //For que se repite segun la cantidad de espacios en array viajecito
+    for(int i=0; i<4; i++){  //For que se repite segun la cantidad de espacios en cadenaay viajecito
         if(strcmp(a[i].origen, soli) == 0){  //Pregunto si el nombre de la ciudad de origen de X viaje es igual al nombre de la ciudad dicho x el usuario
         printf("\n==> |Vuelo %s||Parte: %s| <==\n\n", a[i].alfa, soli);  //Si es asi imprimo en pantalla el mensaje
         flagV = 1;  //Si la ciudad que se consulto se encuentra en la lista el flag es 1
         }
     }
 
-    for(int i=0; i<4; i++){  //For que se repite segun la cantidad de espacios en array viajecito
+    for(int i=0; i<4; i++){  //For que se repite segun la cantidad de espacios en cadenaay viajecito
         if(strcmp(a[i].destino, soli) == 0){  //Pregunto si el nombre de la ciudad de destino de X viaje es igual al nombre de la ciudad dicho x el usuario
-        printf("\n==> |Vuelo %s||Arriba: %s| <==\n\n", a[i].alfa, soli);  //Si es asi imprimo en pantalla el mensaje
+        printf("\n==> |Vuelo %s||cadenaiba: %s| <==\n\n", a[i].alfa, soli);  //Si es asi imprimo en pantalla el mensaje
         flagV = 1;  //Si la ciudad que se consulto se encuentra en la lista el flag es 1
         }
     }
